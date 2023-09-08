@@ -51,7 +51,7 @@ Currently indie hacking AI powered apps, contributing to open source projects, a
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
         </picture> 
     </a>
-    <a href="https://www.threads.net/fullstackeric">
+    <a href="https://www.threads.net/@fullstackeric">
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/e-roy/profileme-dev/add-threads-icon-to-social/public/icons/socials/threads-dark.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/e-roy/profileme-dev/add-threads-icon-to-social/public/icons/socials/threads.svg" /> 
